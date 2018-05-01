@@ -4,7 +4,7 @@ The final project is to replicate the pipeline approach to data analysis on a to
 
 Written proposal due date: **Wednesday, April 18th**
 
-Project due date: **Tuesday, May 7th**
+Project due date: **Tuesday, May 8th**
 
 Please turn it in by email to myself (galkamaxd at gmail) and Evan (ecernea at sas dot upenn dot edu).
 
